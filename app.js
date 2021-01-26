@@ -13,6 +13,7 @@ var age = 31
 
 //let fullName = FIRST_NAME + ' ' + lastName
 //console.log(fullName)
+
 let fullName = `${FIRST_NAME} ${lastName}`
 console.log(fullName)
 
