@@ -5,16 +5,16 @@ console.log(
 
 // Exercise 1
 
-const FIRST_NAME = 'Joe'
+const firstName = 'Joe'
 let lastName = 'Johnson'
 var age = 31
 
 // Exercise 2
 
-//let fullName = FIRST_NAME + ' ' + lastName
+//let fullName = firstName + ' ' + lastName
 //console.log(fullName)
 
-let fullName = `${FIRST_NAME} ${lastName}`
+let fullName = `${firstName} ${lastName}`
 console.log(fullName)
 
 // Exercise 3
